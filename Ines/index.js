@@ -3,7 +3,7 @@ let str = "Halli Hallo";
 console.log("1==>", str);
 
 //2
-console.log("2==>", str.slice(1, 6));
+console.log("2==>", str.slice(1, 5));
 
 //3
 let programmingLanguage = "JavaScript";
