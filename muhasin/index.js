@@ -3,7 +3,7 @@ let str = "webdevelopment";
 console.log("str ==>", str);
 
 // 2. Access the 2nd and 6th elements of the string. Print the elements to the console. Make sure you have selected the right index numbers
-console.log("str ==>", str[2], str[6]);
+console.log("str ==>", str[1], str[5]);
 
 // 3. Declare a variable called programmingLanguage and assign the string "JavaScript". Declare a variable called isFun and give it a value of true. Print "JavaScript is fun: true" to the console, using your declared variables.
 let programmingLanguage = "JavaScript";
